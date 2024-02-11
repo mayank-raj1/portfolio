@@ -11,7 +11,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
-  const { name, showBlog, showResume } = data;
+  const { name, showBlog } = data;
 
   useEffect(() => {
     setMounted(true);
@@ -74,18 +74,18 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
-                  {showResume && (
-                    <Button
-                      onClick={() =>
-                        window.open("mailto:hello@chetanverma.com")
-                      }
-                    >
-                      Resume
-                    </Button>
-                  )}
+                  <Button
+                    onClick={() =>
+                      window.open(
+                        "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                      )
+                    }
+                  >
+                    Resume
+                  </Button>
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() => window.open("mailto:mayraj035@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -98,17 +98,17 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
-                  {showResume && (
-                    <Button
-                      onClick={() => router.push("/resume")}
-                      classes="first:ml-1"
-                    >
-                      Resume
-                    </Button>
-                  )}
-
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() =>
+                      window.open(
+                        "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                      )
+                    }
+                  >
+                    Resume
+                  </Button>
+                  <Button
+                    onClick={() => window.open("mailto:mayraj035@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -136,16 +136,17 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
-            {showResume && (
-              <Button
-                onClick={() => router.push("/resume")}
-                classes="first:ml-1"
-              >
-                Resume
-              </Button>
-            )}
+            <Button
+              onClick={() =>
+                window.open(
+                  "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                )
+              }
+            >
+              Resume
+            </Button>
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:mayraj035@gmail.com")}>
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -165,16 +166,17 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
-            {showResume && (
-              <Button
-                onClick={() => router.push("/resume")}
-                classes="first:ml-1"
-              >
-                Resume
-              </Button>
-            )}
+            <Button
+              onClick={() =>
+                window.open(
+                  "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                )
+              }
+            >
+              Resume
+            </Button>
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:mayraj035@gmail.com")}>
               Contact
             </Button>
 
