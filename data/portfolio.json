@@ -1,1 +1,147 @@
-{"name":"Mayank Raj","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Mayank - a CS Student ","headerTaglineThree":"Creating intelligent iOS apps","headerTaglineFour":"To empower the mind","showCursor":true,"showBlog":false,"darkMode":true,"showResume":false,"socials":[{"id":"1","title":"Github","link":"https://github.com/mayank-raj1"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/raj-may/"},{"id":"5","title":"Email","link":"mailto:mayraj035@gmail.com"}],"projects":[{"id":"4","title":"ReflectLLM","description":"An advanced tool for thought iOS app that empowers users to process their thoughts and emotions, trigger identification, pattern understanding, and offers personalized tools for enhanced emotional control ","imageSrc":"https://i.postimg.cc/C1HxgJsP/Under-Development-website.jpg","url":"https://github.com/mayank-raj1/ReflectLLM"},{"id":"139b021f-7991-4717-ac74-c35b61f7b12d","title":"NutriChat","description":"An LLM-powered personalized recipes iOS app to craft meals tailored to your goals & preferences, with advanced language processing & machine learning using Google Gemini API. Eat smarter, and healthier.","imageSrc":"https://i.postimg.cc/15PsSp82/Nutrichat-Website.jpg","url":"https://github.com/mayank-raj1/NutriChat"},{"id":"40ca9d0b-0f07-4da7-a3fd-8cec65bd48db","title":"SnackSwift","description":"Order delicious snacks & appetizers with detailed nutrition info in this Swift & SwiftUI iOS app. Make informed choices & track your intake - Snack swift is your healthy snacking companion.","imageSrc":"https://i.postimg.cc/Z5cHWhK4/Snack-Swift-Website.jpg","url":"https://github.com/mayank-raj1/SnackSwift"},{"id":"6343e960-198d-45c9-a7b5-188b8cc7abe1","title":"MMA Simulator ","description":"Simulate complex MMA matches with strategic AI in this Java and MySQL powered CLI program. Create and manage fighters, experience the thrill of the octagon, and strategize like a champion.","imageSrc":"https://i.postimg.cc/8PZwCHnY/MMASimulator-Website.jpg","url":"https://github.com/mayank-raj1/MMA_Simulator"},{"id":"9ba1c0aa-c05b-4b43-95c9-e0ec35b4b538","title":"Hospital Management System","description":"A desktop app build using Python, Tkinter & MySql to manage appointments, records, billing, and more with lightning speed, empowering your staff to deliver exceptional care, every time.","imageSrc":"https://i.postimg.cc/6pLr2h5f/Designer.png","url":"https://github.com/mayank-raj1/Hospital-Management-System-"},{"id":"05c4157b-ba0e-4ca8-80b7-608ffff48c33","title":"MovieVerse","description":"An desktop application designed to provide personalized movie recommendations from a database of 100+ movies. Users can easily select their preferences and enjoy movie suggestions tailored to their taste.","imageSrc":"https://i.postimg.cc/6p6DVC1s/Designer-3.jpg","url":"https://github.com/mayank-raj1/MovieVerse"}],"services":[{"id":"0161e81c-4cbb-4dd4-91af-3d0bd676aea4","title":"iOS App Development ","description":"Skilled in building iOS apps with Xcode, Swift, SwiftUI, UIKit, and CoreData. Proficient in using Swift's features like optionals, closures, async await, and managing data with CoreData."},{"id":"a038b1d3-4cb9-41c6-8a67-ec8e5ef63b07","title":"Project Mangement","description":"Professional experience in leading teams and delivering 3+ successful projects. Skilled in communication with stakeholders, understanding business requirements, using SDLC and agile methods, and BRD and FRD documentation."},{"id":"2bddab8c-6c5c-4164-bb23-1aa28f3e7714","title":"RestAPI Development","description":"Experienced in making RestAPIs with SpringBoot, flask and Django, skilled in managing backend tasks, and knowledgeable about creating endpoints and processing HTTP requests."},{"id":"aee0a2c1-81a4-4e8f-8486-a6954732ebe8","title":"Machine Learning","description":"Skilled in fine tuning ML models, optimizing prompts, and using LangChain framework for LLM-powered apps. Building apps with context awareness and retrieval generation techniques."},{"id":"2c0601de-99a9-4696-ae6e-979908036695","title":"Database Management","description":"Skilled in planning, creating, and managing databases, with experience in MySQL, PostgreSQL, and MongoDB. Proficient in designing schemas, establishing relationships, and managing keys"},{"id":"c966e9fd-82b0-4b6d-ba04-2c02537a5d80","title":"UI/UX Design","description":"Skilled in design and developing UI and UX for app and websites, for a non-obtrusive experience for users. Experienced in creating wireframes, and prototypes and complying with Human interface guidelines "}],"aboutpara":"Hello! 👋 I'm Mayank, a passionate 2nd year CS student and purposeful learner driven to make a positive impact in the tech world.\n\nI excel in developing APIs, iOS apps, and integrating AI models into apps and websites using frameworks like LangChain. With experience in product development, I've led the creation and implementation of new features to meet business requirements. 💼\n","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Mayank Raj",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Mayank - a CS Student ",
+  "headerTaglineThree": "Creating intelligent iOS apps",
+  "headerTaglineFour": "To empower the mind",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/mayank-raj1"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/raj-may/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:mayraj035@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "99f533d9-b121-4fb1-abf4-d8d60f00cd25",
+      "title": "Gemini CodeSync",
+      "description": "A Chrome extension that provides real-time, personalized code explanations. Whether you're a beginner or a seasoned pro, our AI/ML powered tool enhances learning and boosts productivity.",
+      "imageSrc": "https://i.postimg.cc/28bQ22xN/Frame-21.jpg",
+      "url": "https://github.com/Gemini-CodeSync/hackathon-project"
+    },
+    {
+      "id": "2bdc3fec-d57a-4993-8434-e3653802c8ba",
+      "title": "NetWrk",
+      "description": "A website designed to help professionals and students who are strengthen their network and have meaningful conversations. Our built-in AI assistant analyzes public information, like LinkedIn profiles, to suggest relevant questions and break the ice.",
+      "imageSrc": "https://i.postimg.cc/k57CNmKs/Netwrk.jpg",
+      "url": "https://github.com/mayank-raj1/NetWrk"
+    },
+    {
+      "id": "4",
+      "title": "ReflectLLM",
+      "description": "An advanced tool for thought iOS app that empowers users to process their thoughts and emotions, trigger identification, pattern understanding, and offers personalized tools for enhanced emotional control ",
+      "imageSrc": "https://i.postimg.cc/C1HxgJsP/Under-Development-website.jpg",
+      "url": "https://github.com/mayank-raj1/ReflectLLM"
+    },
+    {
+      "id": "139b021f-7991-4717-ac74-c35b61f7b12d",
+      "title": "NutriChat",
+      "description": "An LLM-powered personalized recipes iOS app to craft meals tailored to your goals & preferences, with advanced language processing & machine learning using Google Gemini API. Eat smarter, and healthier.",
+      "imageSrc": "https://i.postimg.cc/15PsSp82/Nutrichat-Website.jpg",
+      "url": "https://github.com/mayank-raj1/NutriChat"
+    },
+    {
+      "id": "40ca9d0b-0f07-4da7-a3fd-8cec65bd48db",
+      "title": "SnackSwift",
+      "description": "Order delicious snacks & appetizers with detailed nutrition info in this Swift & SwiftUI iOS app. Make informed choices & track your intake - Snack swift is your healthy snacking companion.",
+      "imageSrc": "https://i.postimg.cc/Z5cHWhK4/Snack-Swift-Website.jpg",
+      "url": "https://github.com/mayank-raj1/SnackSwift"
+    },
+    {
+      "id": "6343e960-198d-45c9-a7b5-188b8cc7abe1",
+      "title": "MMA Simulator ",
+      "description": "Simulate complex MMA matches with strategic AI in this Java and MySQL powered CLI program. Create and manage fighters, experience the thrill of the octagon, and strategize like a champion.",
+      "imageSrc": "https://i.postimg.cc/8PZwCHnY/MMASimulator-Website.jpg",
+      "url": "https://github.com/mayank-raj1/MMA_Simulator"
+    },
+    {
+      "id": "9ba1c0aa-c05b-4b43-95c9-e0ec35b4b538",
+      "title": "Hospital Management System",
+      "description": "A desktop app build using Python, Tkinter & MySql to manage appointments, records, billing, and more with lightning speed, empowering your staff to deliver exceptional care, every time.",
+      "imageSrc": "https://i.postimg.cc/6pLr2h5f/Designer.png",
+      "url": "https://github.com/mayank-raj1/Hospital-Management-System-"
+    },
+    {
+      "id": "05c4157b-ba0e-4ca8-80b7-608ffff48c33",
+      "title": "MovieVerse",
+      "description": "An desktop application designed to provide personalized movie recommendations from a database of 100+ movies. Users can easily select their preferences and enjoy movie suggestions tailored to their taste.",
+      "imageSrc": "https://i.postimg.cc/6p6DVC1s/Designer-3.jpg",
+      "url": "https://github.com/mayank-raj1/MovieVerse"
+    }
+  ],
+  "services": [
+    {
+      "id": "0161e81c-4cbb-4dd4-91af-3d0bd676aea4",
+      "title": "iOS App Development ",
+      "description": "Skilled in building iOS apps with Xcode, Swift, SwiftUI, UIKit, and CoreData. Proficient in using Swift's features like optionals, closures, async await, and managing data with CoreData."
+    },
+    {
+      "id": "a038b1d3-4cb9-41c6-8a67-ec8e5ef63b07",
+      "title": "Project Mangement",
+      "description": "Professional experience in leading teams and delivering 3+ successful projects. Skilled in communication with stakeholders, understanding business requirements, using SDLC and agile methods, and BRD and FRD documentation."
+    },
+    {
+      "id": "2bddab8c-6c5c-4164-bb23-1aa28f3e7714",
+      "title": "RestAPI Development",
+      "description": "Experienced in making RestAPIs with SpringBoot, flask and Django, skilled in managing backend tasks, and knowledgeable about creating endpoints and processing HTTP requests."
+    },
+    {
+      "id": "aee0a2c1-81a4-4e8f-8486-a6954732ebe8",
+      "title": "Machine Learning",
+      "description": "Skilled in fine tuning ML models, optimizing prompts, and using LangChain framework for LLM-powered apps. Building apps with context awareness and retrieval generation techniques."
+    },
+    {
+      "id": "2c0601de-99a9-4696-ae6e-979908036695",
+      "title": "Database Management",
+      "description": "Skilled in planning, creating, and managing databases, with experience in MySQL, PostgreSQL, and MongoDB. Proficient in designing schemas, establishing relationships, and managing keys"
+    },
+    {
+      "id": "c966e9fd-82b0-4b6d-ba04-2c02537a5d80",
+      "title": "UI/UX Design",
+      "description": "Skilled in design and developing UI and UX for app and websites, for a non-obtrusive experience for users. Experienced in creating wireframes, and prototypes and complying with Human interface guidelines "
+    }
+  ],
+  "aboutpara": "Hello! 👋 I'm Mayank, a passionate 2nd year CS student and purposeful learner driven to make a positive impact in the tech world.\n\nI excel in developing APIs, iOS apps, and integrating AI models into apps and websites using frameworks like LangChain. With experience in product development, I've led the creation and implementation of new features to meet business requirements. 💼\n",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
