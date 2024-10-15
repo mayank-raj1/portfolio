@@ -29,7 +29,7 @@ const Edit = () => {
   };
 
   // Project Handler
-  const editProjects = (projectIndex, editProject) => {
+  var editProjects = (projectIndex, editProject) => {
     let copyProjects = data.projects;
     copyProjects[projectIndex] = { ...editProject };
     setData({ ...data, projects: copyProjects });
@@ -53,8 +53,8 @@ const Edit = () => {
     });
   };
 
-  const deleteProject = (id) => {
-    const copyProjects = data.projects;
+  var deleteProject = (id) => {
+    var copyProjects = data.projects;
     copyProjects = copyProjects.filter((project) => project.id !== id);
     setData({ ...data, projects: copyProjects });
   };
@@ -83,7 +83,7 @@ const Edit = () => {
   };
 
   const deleteService = (id) => {
-    const copyServices = data.services;
+    var copyServices = data.services;
     copyServices = copyServices.filter((service) => service.id !== id);
     setData({ ...data, services: copyServices });
   };
@@ -111,7 +111,7 @@ const Edit = () => {
   };
 
   const deleteSocials = (id) => {
-    const copySocials = data.socials;
+    var copySocials = data.socials;
     copySocials = copySocials.filter((social) => social.id !== id);
     setData({ ...data, socials: copySocials });
   };

@@ -2,6 +2,8 @@ import React from "react";
 import Socials from "../Socials";
 import Link from "next/link";
 import Button from "../Button";
+import StarButton from "../ContactButton";
+import GradientButton from "../ContactButton";
 
 const Footer = ({}) => {
   return (
@@ -11,11 +13,12 @@ const Footer = ({}) => {
           <h1 className="text-2xl text-bold">Contact.</h1>
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              LET&apos;S WORK
+              LET&apos;S Connect
             </h1>
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              TOGETHER
+              Sometime!
             </h1>
+            <GradientButton />
             <div className="mt-10">
               <Socials />
             </div>
