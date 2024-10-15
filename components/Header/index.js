@@ -77,7 +77,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button
                     onClick={() =>
                       window.open(
-                        "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                        "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view"
                       )
                     }
                   >
@@ -101,7 +101,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button
                     onClick={() =>
                       window.open(
-                        "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                        "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view"
                       )
                     }
                   >
@@ -139,7 +139,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button
               onClick={() =>
                 window.open(
-                  "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                  "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view"
                 )
               }
             >
@@ -169,7 +169,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button
               onClick={() =>
                 window.open(
-                  "https://docs.google.com/document/d/1SSYOyMZnamyH-587VH3nSQrMQqRhglYF1Mc2Z9mymV4/edit?usp=sharing"
+                  "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view"
                 )
               }
             >
