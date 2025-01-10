@@ -101,7 +101,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button
                     onClick={() =>
                       window.open(
-                        "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view"
+                        "https://drive.google.com/file/d/1ymgbIkKZjalA8rvu2_SyMz9HT_H3nZrh/view?usp=sharing"
                       )
                     }
                   >
